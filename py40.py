@@ -8,4 +8,4 @@ import random       #random.py 파일을 복붙하기
 # p.회색이미지('ing.jpg')
 # 이미지띄우기()
 
-print(random.randint(1,11))   #random.py 파일 안에 있는 randint 라는 함수 사용
+print(random.randint(1,11))   #random.py 파일 안에 있는 randint 라는 함수 사용!

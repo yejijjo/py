@@ -1,4 +1,4 @@
-import.cv2
+import cv2
 
 동영상 = cv2.VideoCapture('video.mp4')
 
